@@ -38,6 +38,10 @@ html, body{
   width: 200px;
   height:42px;
 }
+#intro_text2 {
+  text-align: center;
+  font-style: italic;
+}
 #birthdate_input {
   height:42px;
 }
